@@ -46,8 +46,13 @@
 
 background-image: url("images/pozadi.jpg");
 
-
- 
 }
 
-}
+.my-body{  
+  background-image: url(obrazky/stažený\ soubor.jpeg);
+  background-size: cover;           
+  background-repeat: no-repeat;     
+  background-position: center;      
+  min-height: 100vh;                
+  margin: 0;}
+
